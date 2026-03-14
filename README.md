@@ -1,5 +1,12 @@
 # Production API Template
 
+# Production API Template
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Status](https://img.shields.io/badge/status-template-lightgrey)
+
 Production-ready FastAPI starter template for backend services.
 
 This repository is a lightweight backend template showing how I usually structure Python API services for real deployments. It focuses on clean structure, observability basics, and deployment readiness.
