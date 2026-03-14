@@ -43,7 +43,7 @@ README.md
 
 ```
 
-Example Endpoints
+** Example Endpoints
 
 GET /health → basic health check
 
