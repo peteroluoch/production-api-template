@@ -1,2 +1,42 @@
-# production-api-template
-Production-ready FastAPI starter template with Docker, health checks, logging, and CI/CD-friendly structure.
+# Production API Template
+
+Production-ready FastAPI starter template for backend services.
+
+This repository is a lightweight backend template showing how I usually structure Python API services for real deployments. It focuses on clean structure, observability basics, and deployment readiness.
+
+---
+
+## What It Includes
+
+- FastAPI application structure
+- health check endpoint
+- environment-based configuration
+- logging setup
+- Docker support
+- CI/CD-friendly project layout
+- starter-ready API organization
+
+---
+
+## Why This Exists
+
+When building backend services, I prefer starting from a clean, reusable foundation instead of rebuilding common setup every time.
+
+This template reflects the kind of structure I like for production-oriented API work.
+
+---
+
+## Suggested Project Structure
+
+```text
+app/
+  api/
+  core/
+  services/
+  models/
+  main.py
+
+tests/
+Dockerfile
+requirements.txt
+README.md
