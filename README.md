@@ -40,47 +40,28 @@ tests/
 Dockerfile
 requirements.txt
 README.md
-
 ```
 
-** Example Endpoints **
+---
+
+## Example Endpoints
 
 GET /health → basic health check
 
-GET /version → service version info
+GET /version → service version information
 
-** Tech Stack **
+---
 
-Python
+## Tech Stack
 
-FastAPI
-
-Docker
-
-Logging
-
+Python  
+FastAPI  
+Docker  
+Logging  
 Environment configuration
+
+---
 
 ## Notes
 
 This repository is intended as a starter template and reference structure for backend API services.
-
-
-Commit changes.
-
----
-
-# Step 3 — Add Topics
-
-Open the repo main page.
-
-In the **About** section, click the small gear icon and add:
-
-```text
-fastapi
-python
-backend
-api
-docker
-template
-ci-cd
