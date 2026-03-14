@@ -1,7 +1,5 @@
 # Production API Template
 
-# Production API Template
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
