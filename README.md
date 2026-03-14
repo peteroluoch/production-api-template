@@ -43,13 +43,13 @@ README.md
 
 ```
 
-** Example Endpoints
+** Example Endpoints **
 
 GET /health → basic health check
 
 GET /version → service version info
 
-Tech Stack
+** Tech Stack **
 
 Python
 
@@ -61,7 +61,7 @@ Logging
 
 Environment configuration
 
-Notes
+## Notes
 
 This repository is intended as a starter template and reference structure for backend API services.
 
